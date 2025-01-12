@@ -1,0 +1,27 @@
+C:\OneDrive\Documentos\Escuela\Programación\Lenguajes y autómatas\Proyectos\PresentaciónCompilador\Manejador\bin\Debug\Manejador.dll
+C:\OneDrive\Documentos\Escuela\Programación\Lenguajes y autómatas\Proyectos\PresentaciónCompilador\Manejador\bin\Debug\Manejador.pdb
+C:\OneDrive\Documentos\Escuela\Programación\Lenguajes y autómatas\Proyectos\PresentaciónCompilador\Manejador\bin\Debug\Entidades.dll
+C:\OneDrive\Documentos\Escuela\Programación\Lenguajes y autómatas\Proyectos\PresentaciónCompilador\Manejador\bin\Debug\Entidades.pdb
+C:\OneDrive\Documentos\Escuela\Programación\Lenguajes y autómatas\Proyectos\PresentaciónCompilador\Manejador\obj\Debug\Manejador.csproj.AssemblyReference.cache
+C:\OneDrive\Documentos\Escuela\Programación\Lenguajes y autómatas\Proyectos\PresentaciónCompilador\Manejador\obj\Debug\Manejador.csproj.CoreCompileInputs.cache
+C:\OneDrive\Documentos\Escuela\Programación\Lenguajes y autómatas\Proyectos\PresentaciónCompilador\Manejador\obj\Debug\Manejador.csproj.CopyComplete
+C:\OneDrive\Documentos\Escuela\Programación\Lenguajes y autómatas\Proyectos\PresentaciónCompilador\Manejador\obj\Debug\Manejador.dll
+C:\OneDrive\Documentos\Escuela\Programación\Lenguajes y autómatas\Proyectos\PresentaciónCompilador\Manejador\obj\Debug\Manejador.pdb
+C:\OneDrive\Documentos\Escuela\Programación\Lenguajes y autómatas II\Proyectos\Copia 1\PresentaciónCompilador\Manejador\bin\Debug\Manejador.dll
+C:\OneDrive\Documentos\Escuela\Programación\Lenguajes y autómatas II\Proyectos\Copia 1\PresentaciónCompilador\Manejador\bin\Debug\Manejador.pdb
+C:\OneDrive\Documentos\Escuela\Programación\Lenguajes y autómatas II\Proyectos\Copia 1\PresentaciónCompilador\Manejador\bin\Debug\Entidades.dll
+C:\OneDrive\Documentos\Escuela\Programación\Lenguajes y autómatas II\Proyectos\Copia 1\PresentaciónCompilador\Manejador\bin\Debug\Entidades.pdb
+C:\OneDrive\Documentos\Escuela\Programación\Lenguajes y autómatas II\Proyectos\Copia 1\PresentaciónCompilador\Manejador\obj\Debug\Manejador.csproj.AssemblyReference.cache
+C:\OneDrive\Documentos\Escuela\Programación\Lenguajes y autómatas II\Proyectos\Copia 1\PresentaciónCompilador\Manejador\obj\Debug\Manejador.csproj.CoreCompileInputs.cache
+C:\OneDrive\Documentos\Escuela\Programación\Lenguajes y autómatas II\Proyectos\Copia 1\PresentaciónCompilador\Manejador\obj\Debug\Manejador.csproj.CopyComplete
+C:\OneDrive\Documentos\Escuela\Programación\Lenguajes y autómatas II\Proyectos\Copia 1\PresentaciónCompilador\Manejador\obj\Debug\Manejador.dll
+C:\OneDrive\Documentos\Escuela\Programación\Lenguajes y autómatas II\Proyectos\Copia 1\PresentaciónCompilador\Manejador\obj\Debug\Manejador.pdb
+C:\Users\Leo V\Documents\Proyectos\Copia 1\PresentaciónCompilador\Manejador\bin\Debug\Manejador.dll
+C:\Users\Leo V\Documents\Proyectos\Copia 1\PresentaciónCompilador\Manejador\bin\Debug\Manejador.pdb
+C:\Users\Leo V\Documents\Proyectos\Copia 1\PresentaciónCompilador\Manejador\bin\Debug\Entidades.dll
+C:\Users\Leo V\Documents\Proyectos\Copia 1\PresentaciónCompilador\Manejador\bin\Debug\Entidades.pdb
+C:\Users\Leo V\Documents\Proyectos\Copia 1\PresentaciónCompilador\Manejador\obj\Debug\Manejador.csproj.AssemblyReference.cache
+C:\Users\Leo V\Documents\Proyectos\Copia 1\PresentaciónCompilador\Manejador\obj\Debug\Manejador.csproj.CoreCompileInputs.cache
+C:\Users\Leo V\Documents\Proyectos\Copia 1\PresentaciónCompilador\Manejador\obj\Debug\Manejador.csproj.CopyComplete
+C:\Users\Leo V\Documents\Proyectos\Copia 1\PresentaciónCompilador\Manejador\obj\Debug\Manejador.dll
+C:\Users\Leo V\Documents\Proyectos\Copia 1\PresentaciónCompilador\Manejador\obj\Debug\Manejador.pdb
