@@ -1,0 +1,47 @@
+C:\OneDrive\Documentos\Escuela\Programación\Lenguajes y autómatas\Proyectos\PresentaciónCompilador\PresentaciónCompilador\obj\Debug\PresentaciónCompilador.csproj.AssemblyReference.cache
+C:\OneDrive\Documentos\Escuela\Programación\Lenguajes y autómatas\Proyectos\PresentaciónCompilador\PresentaciónCompilador\obj\Debug\PresentaciónCompilador.csproj.SuggestedBindingRedirects.cache
+C:\OneDrive\Documentos\Escuela\Programación\Lenguajes y autómatas\Proyectos\PresentaciónCompilador\PresentaciónCompilador\obj\Debug\PresentaciónCompilador.FrmPrincipal.resources
+C:\OneDrive\Documentos\Escuela\Programación\Lenguajes y autómatas\Proyectos\PresentaciónCompilador\PresentaciónCompilador\obj\Debug\PresentaciónCompilador.csproj.GenerateResource.cache
+C:\OneDrive\Documentos\Escuela\Programación\Lenguajes y autómatas\Proyectos\PresentaciónCompilador\PresentaciónCompilador\obj\Debug\PresentaciónCompilador.csproj.CoreCompileInputs.cache
+C:\OneDrive\Documentos\Escuela\Programación\Lenguajes y autómatas\Proyectos\PresentaciónCompilador\PresentaciónCompilador\bin\Debug\PresentaciónCompilador.exe
+C:\OneDrive\Documentos\Escuela\Programación\Lenguajes y autómatas\Proyectos\PresentaciónCompilador\PresentaciónCompilador\bin\Debug\PresentaciónCompilador.pdb
+C:\OneDrive\Documentos\Escuela\Programación\Lenguajes y autómatas\Proyectos\PresentaciónCompilador\PresentaciónCompilador\bin\Debug\Entidades.dll
+C:\OneDrive\Documentos\Escuela\Programación\Lenguajes y autómatas\Proyectos\PresentaciónCompilador\PresentaciónCompilador\bin\Debug\Manejador.dll
+C:\OneDrive\Documentos\Escuela\Programación\Lenguajes y autómatas\Proyectos\PresentaciónCompilador\PresentaciónCompilador\bin\Debug\Entidades.pdb
+C:\OneDrive\Documentos\Escuela\Programación\Lenguajes y autómatas\Proyectos\PresentaciónCompilador\PresentaciónCompilador\bin\Debug\Manejador.pdb
+C:\OneDrive\Documentos\Escuela\Programación\Lenguajes y autómatas\Proyectos\PresentaciónCompilador\PresentaciónCompilador\obj\Debug\PresentaciónCompilador.csproj.CopyComplete
+C:\OneDrive\Documentos\Escuela\Programación\Lenguajes y autómatas\Proyectos\PresentaciónCompilador\PresentaciónCompilador\obj\Debug\PresentaciónCompilador.exe
+C:\OneDrive\Documentos\Escuela\Programación\Lenguajes y autómatas\Proyectos\PresentaciónCompilador\PresentaciónCompilador\obj\Debug\PresentaciónCompilador.pdb
+C:\OneDrive\Documentos\Escuela\Programación\Lenguajes y autómatas\Proyectos\PresentaciónCompilador\PresentaciónCompilador\obj\Debug\PresentaciónCompilador.FrmAplicacion.resources
+C:\OneDrive\Documentos\Escuela\Programación\Lenguajes y autómatas\Proyectos\PresentaciónCompilador\PresentaciónCompilador\obj\Debug\PresentaciónCompilador.Properties.Resources.resources
+C:\OneDrive\Documentos\Escuela\Programación\Lenguajes y autómatas II\Proyectos\Copia 1\PresentaciónCompilador\PresentaciónCompilador\obj\Debug\PresentaciónCompilador.csproj.AssemblyReference.cache
+C:\OneDrive\Documentos\Escuela\Programación\Lenguajes y autómatas II\Proyectos\Copia 1\PresentaciónCompilador\PresentaciónCompilador\obj\Debug\PresentaciónCompilador.csproj.SuggestedBindingRedirects.cache
+C:\OneDrive\Documentos\Escuela\Programación\Lenguajes y autómatas II\Proyectos\Copia 1\PresentaciónCompilador\PresentaciónCompilador\obj\Debug\PresentaciónCompilador.exe
+C:\OneDrive\Documentos\Escuela\Programación\Lenguajes y autómatas II\Proyectos\Copia 1\PresentaciónCompilador\PresentaciónCompilador\obj\Debug\PresentaciónCompilador.pdb
+C:\OneDrive\Documentos\Escuela\Programación\Lenguajes y autómatas II\Proyectos\Copia 1\PresentaciónCompilador\PresentaciónCompilador\obj\Debug\PresentaciónCompilador.Properties.Resources.resources
+C:\OneDrive\Documentos\Escuela\Programación\Lenguajes y autómatas II\Proyectos\Copia 1\PresentaciónCompilador\PresentaciónCompilador\obj\Debug\PresentaciónCompilador.csproj.GenerateResource.cache
+C:\OneDrive\Documentos\Escuela\Programación\Lenguajes y autómatas II\Proyectos\Copia 1\PresentaciónCompilador\PresentaciónCompilador\bin\Debug\PresentaciónCompilador.exe
+C:\OneDrive\Documentos\Escuela\Programación\Lenguajes y autómatas II\Proyectos\Copia 1\PresentaciónCompilador\PresentaciónCompilador\bin\Debug\PresentaciónCompilador.pdb
+C:\OneDrive\Documentos\Escuela\Programación\Lenguajes y autómatas II\Proyectos\Copia 1\PresentaciónCompilador\PresentaciónCompilador\bin\Debug\Entidades.dll
+C:\OneDrive\Documentos\Escuela\Programación\Lenguajes y autómatas II\Proyectos\Copia 1\PresentaciónCompilador\PresentaciónCompilador\bin\Debug\Manejador.dll
+C:\OneDrive\Documentos\Escuela\Programación\Lenguajes y autómatas II\Proyectos\Copia 1\PresentaciónCompilador\PresentaciónCompilador\bin\Debug\Entidades.pdb
+C:\OneDrive\Documentos\Escuela\Programación\Lenguajes y autómatas II\Proyectos\Copia 1\PresentaciónCompilador\PresentaciónCompilador\bin\Debug\Manejador.pdb
+C:\OneDrive\Documentos\Escuela\Programación\Lenguajes y autómatas II\Proyectos\Copia 1\PresentaciónCompilador\PresentaciónCompilador\obj\Debug\PresentaciónCompilador.FrmAplicacion.resources
+C:\OneDrive\Documentos\Escuela\Programación\Lenguajes y autómatas II\Proyectos\Copia 1\PresentaciónCompilador\PresentaciónCompilador\obj\Debug\PresentaciónCompilador.FrmPrincipal.resources
+C:\OneDrive\Documentos\Escuela\Programación\Lenguajes y autómatas II\Proyectos\Copia 1\PresentaciónCompilador\PresentaciónCompilador\obj\Debug\PresentaciónCompilador.csproj.CoreCompileInputs.cache
+C:\OneDrive\Documentos\Escuela\Programación\Lenguajes y autómatas II\Proyectos\Copia 1\PresentaciónCompilador\PresentaciónCompilador\obj\Debug\PresentaciónCompilador.csproj.CopyComplete
+C:\Users\Leo V\Documents\Proyectos\Copia 1\PresentaciónCompilador\PresentaciónCompilador\bin\Debug\PresentaciónCompilador.exe
+C:\Users\Leo V\Documents\Proyectos\Copia 1\PresentaciónCompilador\PresentaciónCompilador\bin\Debug\PresentaciónCompilador.pdb
+C:\Users\Leo V\Documents\Proyectos\Copia 1\PresentaciónCompilador\PresentaciónCompilador\bin\Debug\Entidades.dll
+C:\Users\Leo V\Documents\Proyectos\Copia 1\PresentaciónCompilador\PresentaciónCompilador\bin\Debug\Manejador.dll
+C:\Users\Leo V\Documents\Proyectos\Copia 1\PresentaciónCompilador\PresentaciónCompilador\bin\Debug\Entidades.pdb
+C:\Users\Leo V\Documents\Proyectos\Copia 1\PresentaciónCompilador\PresentaciónCompilador\bin\Debug\Manejador.pdb
+C:\Users\Leo V\Documents\Proyectos\Copia 1\PresentaciónCompilador\PresentaciónCompilador\obj\Debug\PresentaciónCompilador.csproj.AssemblyReference.cache
+C:\Users\Leo V\Documents\Proyectos\Copia 1\PresentaciónCompilador\PresentaciónCompilador\obj\Debug\PresentaciónCompilador.FrmAplicacion.resources
+C:\Users\Leo V\Documents\Proyectos\Copia 1\PresentaciónCompilador\PresentaciónCompilador\obj\Debug\PresentaciónCompilador.FrmPrincipal.resources
+C:\Users\Leo V\Documents\Proyectos\Copia 1\PresentaciónCompilador\PresentaciónCompilador\obj\Debug\PresentaciónCompilador.Properties.Resources.resources
+C:\Users\Leo V\Documents\Proyectos\Copia 1\PresentaciónCompilador\PresentaciónCompilador\obj\Debug\PresentaciónCompilador.csproj.GenerateResource.cache
+C:\Users\Leo V\Documents\Proyectos\Copia 1\PresentaciónCompilador\PresentaciónCompilador\obj\Debug\PresentaciónCompilador.csproj.CoreCompileInputs.cache
+C:\Users\Leo V\Documents\Proyectos\Copia 1\PresentaciónCompilador\PresentaciónCompilador\obj\Debug\PresentaciónCompilador.csproj.CopyComplete
+C:\Users\Leo V\Documents\Proyectos\Copia 1\PresentaciónCompilador\PresentaciónCompilador\obj\Debug\PresentaciónCompilador.exe
+C:\Users\Leo V\Documents\Proyectos\Copia 1\PresentaciónCompilador\PresentaciónCompilador\obj\Debug\PresentaciónCompilador.pdb
